@@ -85,4 +85,4 @@ plot_errors(errs, plotType = "line")
 #### Hard Test
 For the final test, I created a R package called `Calculator`. It contains five functions, `add()`, `substract()`, `multiply()`, `divide()` and `modulo()` , with documentation and tests. Then, using `devtools::check()`, I checked for any errors or warning, and uploaded the source file to <https://win-builder.r-project.org/>. It passed without errors/warnings/note.
 
-The result of <a href="https://win-builder.r-project.org/" class="uri">&lt;https://win-builder.r-project.org/&gt;</a> is included in the github repository(`00check.log`).
+The result of <https://win-builder.r-project.org/> is included in the github repository(`00check.log`).
