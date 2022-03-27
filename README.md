@@ -6,7 +6,7 @@
 <https://github.com/rstats-gsoc/gsoc2022/wiki/imputeTestbenchG%3A-imputation-testbench-for-Genomics-data>
 
 #### Tests
-- Easy: Easy: Download the `imputeTestbench` package and demonstrate it with a naturally occurring time series. Document it with RMarkdown.
+- Easy: Download the `imputeTestbench` package and demonstrate it with a naturally occurring time series. Document it with RMarkdown.
 
 - Medium: Suggest possible updates or a new feature you would like to include in the next version of the `imputeTestbench` package.
 
